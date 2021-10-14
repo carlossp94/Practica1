@@ -1,6 +1,6 @@
 # Practica1
 
-##Screenshot
+## Screenshot
 <img src="form1.png">
 <img src="form2.png">
 <img src="form3.png">
